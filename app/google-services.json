@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130736800898",
+    "firebase_url": "https://srishti-d3de3.firebaseio.com",
+    "project_id": "srishti-d3de3",
+    "storage_bucket": "srishti-d3de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130736800898:android:e62c74e8dc798699",
+        "android_client_info": {
+          "package_name": "com.project.srishti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130736800898-vem52ral7kf0krk3lnhrt7h10khafte9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.srishti",
+            "certificate_hash": "a1fc74615caf2e6e7ff87f8c0286557fd53aa0e6"
+          }
+        },
+        {
+          "client_id": "130736800898-aolr3o471qf6r8f0h2spslsv1k11nac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2rEjn3083c_5zk9qenlB6lkr0BdLirM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130736800898-aolr3o471qf6r8f0h2spslsv1k11nac4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
